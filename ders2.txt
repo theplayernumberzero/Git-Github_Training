@@ -1,0 +1,5 @@
+Staging area ya eklediğin bir dosyayı unstage etmek için "git rm --cached 'dosya_adı'" komutunu kullanabilirsin.
+
+Unstage yapılan dosya git tarafından takip edilmeyi bırakır.
+
+Git log adı üstünde projede log kaydı tutar ve hangi commiti kimin, ne zaman yaptığını görmeni sağlar.
