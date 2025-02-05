@@ -1,0 +1,5 @@
+Git restore "dosya_adı" -> Dosya içindeki değişiklikleri iptal eder(Discard all changes). 
+
+Dosyayı düzenleyip tam commit edecekken bir sorun fark ettin. Ve Bir dosyada yaptığın değişikliklerin hepsini geri almalısın. Bu komut dosyayı varsa önceki chechkpoint noktasına getirir.
+
+Yani bu kod çalıştıktan sonra status kontrol edilirse hiçbir değişiklik gözükmez.
