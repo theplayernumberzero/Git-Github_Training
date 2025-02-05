@@ -1,0 +1,9 @@
+Branch oluşturma ve branch değiştirme
+
+"Git branch yeni_branch_adı" komutu branch oluşturmamızı sağlar.
+
+"Git checkout yeni_branch_adı" ve "git switch yeni_branch_adı" branch değiştirmemizi sağlar. Ancak "switch" kodunun kullanılması tavsiye edilir çünkü checkout commit için de kullanılır ve kafa karışıklığına sebebiyet verebilir.
+
+Log da HEAD hangi branch üzerinde olduğumuzu gösterir.
+
+Branchte yaptığın değişiklikler merge edilmediyse başka bir branchte gözükmez.
