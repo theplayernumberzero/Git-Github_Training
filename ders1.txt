@@ -1,0 +1,3 @@
+Git init yapılan bir yerde "git init" komutunu yeniden çalıştırmak hataları beraberinde getirebilir (Log override edildiği için)
+
+Dolayısı ile "git init" çalıştırılmadan önce "git status" çalıştırılıp, initialize edilip edilmediğin görür one göre init komutunu çalıştırırsın. 
