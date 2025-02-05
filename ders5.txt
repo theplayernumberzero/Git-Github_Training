@@ -1,0 +1,5 @@
+Mergeleme işlemi için öncelikle hangi branch e bir şe mergelenecekse o branch seçilmeli. Ardından "git merge branch_adi" ile merge işlemi yapılır.
+
+Fast-forwarding kavramı merge işleminde kullanılır. Merglenen brancteki commitler bir yol izler merge edildiği anda main son commite bir çizgi çeker ve hızlıca birleşir.
+
+2 branch birleştirip 3. Sünü birleştirmek istesen önceki mergeleme işlemi commit oluşturmalı. Bunu komut sistemi kendi de otomatik yapabilir yada sana sorabilir.
