@@ -1,0 +1,5 @@
+Commitler arası gezinmek(head in yer değiştirmesi) "git checkout commit_id" ile mümkün. Ancak bu pozisyonda "deatached HEAD" oluyor. (Yani yeni bir branch açılmış gibi davranıyor)
+
+"Git switch branch_adi" kullanarak geri dönerbiliriz.
+
+Ya da içinde bulunduğun committen yeni bir branch açıp oradan devam edebilirim. "Git switch branch_adi" ile yine burdan headin ilk bulunduğu yere dönüş yapabiliriz.
