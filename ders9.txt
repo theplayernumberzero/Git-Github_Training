@@ -1,0 +1,7 @@
+"Git stash" zulalama yapmayı sağlar. Yani branch üzerinde değişiklik yapıp daha staging areaya göndermediysen bunları zulaya atar ve olası bir branch değişikliğinde karışıklığı önler.
+
+"Git stash list" ise zulalama listesini gösterir.
+
+"Git stash pop" ise son yapılan zulalamayı geri döndürür. Ve stash listesinden drop edilir.
+
+"Git tag version_numarası" versiyon numarasını tag lememizi sağlar. Git tag diyerek girdiğimiz versiyon numarasını görebiliriz. (İleride direk versiyon ile pushlama yapmasını göreceğiz.)
