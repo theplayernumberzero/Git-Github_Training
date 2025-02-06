@@ -1,0 +1,3 @@
+Conflict olması için aynı dosyaya sahip olan iki branchte dosya içeriklerinin farklı olması ve mergelenmesi gerekir.
+
+Olduğunda da uyarı verir ve senden conflict i çözmeni ister
