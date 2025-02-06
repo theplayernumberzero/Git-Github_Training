@@ -1,0 +1,3 @@
+"Git reset --hard commit_id" seçtiğimiz commit e döner. Gittiğimiz committen sonraki commitleri de siler.
+
+"Git revert commit_id" sayesinde istediğim commite geri döneriz ancak, döndüğümüzden sonrakiler silinmez. Geri gitme işlemi yeni bir commit gibi sayılır en önde durur.
