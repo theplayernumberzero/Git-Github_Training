@@ -1,0 +1,3 @@
+Git fetch ile değişiklikleri görebilir(git status) ve git pull ile bu değişiklikleri projemden alabilirim.
+
+Touch .gitignore ile ignore edilecek dosyalar için dosya oluştur. Ardından yok saymak istediğimiz dosyaları uzantıları ile birlikte bu dosyaya yazıyoruz
